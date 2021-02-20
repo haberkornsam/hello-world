@@ -1,2 +1,4 @@
 # hello-world
-This is for class :eye-rolling:
+
+Hi! This is Sam Haberkorn.
+Practice for CS-3300
